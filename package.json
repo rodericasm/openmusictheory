@@ -1,0 +1,15 @@
+{
+  "name": "openmusic_reskin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rodericasm/openmusictheory_reskinned.git",
+  "author": "rodericasm <rodericasm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
