@@ -1,11 +1,11 @@
 <template>
-  <div class="theme-container">
+  <div class="404-container">
     <sidebar></sidebar>
     <main>
       <div class="main_content_container">
         <h1 class="billboard_404 center_text">404</h1>
         <p class="center_text">{{ getMsg() }}</p>
-        <RouterLink to="/">
+        <RouterLink to="/index.html">
           <p class="center_text">Take me home.</p>
         </RouterLink>
       </div>

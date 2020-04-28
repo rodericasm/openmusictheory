@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lora|Playfair+Display:400,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora:400|Playfair+Display:800,400&display=swap');
 
 
 body {
@@ -21,28 +21,47 @@ li {
   line-height: 1.8;
 }
 
+
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display';
   letter-spacing: 0.5px;
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 50px;
   margin-bottom: 60px;
+  line-height: 1.2;
 
+}
+
+h2 {
+  font-size: 40px;
+    margin: 0;
+    padding: 0;
+      font-weight: 400;
 }
 
 
 h3 {
-  font-size: 30px;
-  margin-top: 80px;
+  font-size: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-weight: 400;
 }
 
 
 .logo_container {
-  width: 70%;
+  width: 65%;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 55px;
+  }
+
+  .sidebar_nav_container {
+ 
+padding: 0;
+  width: 65%;
+  margin: auto;
+   margin-top: 30px;
   }
 
   aside {
@@ -65,7 +84,7 @@ h3 {
 .main_content_container {
   width: 680px;
   margin: 0 auto;
-  padding-top: 30px;
+  padding-top: 15px;
   }
 
 img {
@@ -76,9 +95,10 @@ img {
   }
 
 .logo_text {
-  font-size: 60px;
+  display:table-caption;
+  font-size: 50px;
   font-weight: 800;
-  line-height: 1.05;
+    line-height: 1.1;
   padding: 0;
   margin: 0;
 letter-spacing: 0.5px;
@@ -93,24 +113,19 @@ a {
   color: #000;
 }
 
-.router-link-active {
-  text-decoration-line: underline;
-  text-decoration-style: solid;
-  color: #FF69B4;
-
+a:hover  {
+    text-decoration: none;
+    color: #de01d6;;
 }
 
-ul {
-    margin-bottom: 40px;
-}
-
-.sidebar_nav_container {
- 
-padding: 0;
-  width: 70%;
-  margin: auto;
-   margin-top: 70px;
+.router-link-active .hitbox_span .underline_span {
+    text-decoration: none;
+    color: #de01d6;;
+    border-bottom: 3px solid #de01d6;;
   }
+
+
+
 
 .nav_section {
    list-style-type: none;
@@ -120,8 +135,8 @@ padding: 0;
     padding: 0;
     margin: 0;
     margin-bottom: 10px;
-    font-size: 23px;
-    font-weight: 800;
+    font-size: 25px;
+
     font-family: 'Playfair Display';
     }
 
@@ -133,9 +148,8 @@ padding: 0;
       }
 
 .hitbox_span {
-      padding-left: 20px;
-      padding-top: 15px;
-      padding-bottom: 10px;
+      padding-left: 10px;
+      padding-top: 5px;
+      padding-bottom: 5px;
       display:block;
- 
 }

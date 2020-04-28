@@ -1,5 +1,5 @@
 <template>
-  <div class="theme-container">
+  <div class="layout">
     <sidebar></sidebar>
     <main>
       <div class="main_content_container">

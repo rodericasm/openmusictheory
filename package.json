@@ -1,7 +1,7 @@
 {
   "name": "openmusic_reskin",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "layouts/Layout.vue",
   "repository": "https://github.com/rodericasm/openmusictheory_reskinned.git",
   "author": "rodericasm <rodericasm@gmail.com>",
   "license": "MIT",
