@@ -64,6 +64,77 @@ export default {
               name: "Beams and borrowed divisions",
               link: "/beams",
             },
+            {
+              name: "Pitches",
+              link: "/pitches",
+            },
+            {
+              name: "Scales and scale degrees",
+              link: "/scales",
+            },
+            {
+              name: "Key signatures",
+              link: "/keySignatures",
+            },
+            {
+              name: "Intervals",
+              link: "/intervals",
+            },
+            {
+              name: "Triads and 7th chords",
+              link: "/triads",
+            },
+            {
+              name: "Types of motion.",
+              link: "/motionTypes",
+            },
+          ],
+        },
+        {
+          header: "Voice-leading and model composition",
+          nav: [
+            {
+              name: "Introduction to strict voice-leading.",
+              link: "/speciesIntro",
+            },
+          ],
+        },
+        {
+          header: "Strict 2-voice composition (species counterpoint)",
+          nav: [
+            {
+              name: "Composing a cantus firmus.",
+              link: "/cantusFirmus",
+            },
+            {
+              name: "Composing a first-species counterpoint.",
+              link: "/firstSpecies",
+            },
+            {
+              name: "Composing a second-species counterpoint.",
+              link: "/secondSpecies",
+            },
+            {
+              name: "Composing a third-species counterpoint.",
+              link: "/thirdSpecies",
+            },
+            {
+              name: "Composing a fourth-species counterpoint.",
+              link: "/fourthSpecies",
+            },
+          ],
+        },
+        {
+          header: "Strict four-voice composition",
+          nav: [
+            {
+              name: "Introduction to thoroughbass.",
+              link: "/thoroughbassFigures",
+            },
+            {
+              name: "A brief history of _basso continuo_.",
+              link: "/bassoContinuo-history",
+            },
           ],
         },
       ],

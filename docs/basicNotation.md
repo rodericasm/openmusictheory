@@ -11,7 +11,7 @@ When written on a staff, a note indicates a pitch and rhythmic value. The notati
 
 ### Staff
 
-Notes can't convey their pitch information without being placed on a staff. A staff consists of five horizontal lines, evenly spaced. The plural of staff is _staves_. [pe](beams.html)
+Notes can't convey their pitch information without being placed on a staff. A staff consists of five horizontal lines, evenly spaced. The plural of staff is _staves_.
 
 ### Clefs
 
