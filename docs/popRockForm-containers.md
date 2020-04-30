@@ -11,7 +11,7 @@ A phrase is a musical unit that typically lasts for four bars and includes one l
 
 ### Module
 
-In pop/rock music, a _module_ typically spans between 8 and 24 bars and includes 2–4 phrases. (Some auxiliary modules may contain a single phrase.) A module presents a single [formal function](popRockForm-functions) (such as A, B, C, V, P, etc.) and presents a complete 2-, 3-, or 4-part pattern. Modules typically set a stanza of lyrics.
+In pop/rock music, a _module_ typically spans between 8 and 24 bars and includes 2–4 phrases. (Some auxiliary modules may contain a single phrase.) A module presents a single [formal function](popRockForm-functions.html) (such as A, B, C, V, P, etc.) and presents a complete 2-, 3-, or 4-part pattern. Modules typically set a stanza of lyrics.
 
 Module boundaries are usually made apparent by poetic structure (end of a group of rhyming lines—couplet or stanza) or surface features of the song (clear rhythmic, harmonic, and melodic arrival; change in instrumentation or volume; return to beginning of a previously heard module; etc.).
 
@@ -35,7 +35,7 @@ _All module definitions are based on Jason Summach's (2012) dissertation, "Form 
 
 ### Primary module
 
-"A module that contains a song’s principal materials" (Summach, p. 322), such as the title text or the most memorable or climactic music. Primary modules exhibit strophe function (A) or chorus function (C). See [Formal functions](popRockForm-functions) for more details on these specific functions.
+"A module that contains a song’s principal materials" (Summach, p. 322), such as the title text or the most memorable or climactic music. Primary modules exhibit strophe function (A) or chorus function (C). See [Formal functions](popRockForm-functions.html) for more details on these specific functions.
 
 ### Secondary module
 
@@ -55,13 +55,13 @@ Auxiliary modules help frame the core modules, introducing them, providing tempo
 
 A strophic song’s cycle is {A}. Since there is only one module in a strophic cycle, analysis of the cycles is trivial and can be easily passed over.
 
-A 32-bar song’s cycle is typically {AABA}, though abbreviated cycles are common, especially later in the song. "I Want to Hold Your Hand" is a typical example, where a complete {AABA} cycle is followed by an abbreviated {BA} cycle (see [Pop/rock form overview](popRockForm) for a detailed explanation):
+A 32-bar song’s cycle is typically {AABA}, though abbreviated cycles are common, especially later in the song. "I Want to Hold Your Hand" is a typical example, where a complete {AABA} cycle is followed by an abbreviated {BA} cycle (see [Pop/rock form overview](popRockForm.html) for a detailed explanation):
 
 > {AABA}{BA}
 
 A verse-chorus song’s main cycle is typically {VC} or {VPC}. When a bridge occurs in the song, it often replaces V or VP. Postchoruses (Z) can also follow the chorus.
 
-Bon Jovi's "Livin' on a Prayer" (discussed in the [Pop/rock form overview](popRockForm)) contains a moderately complex set of cycles:
+Bon Jovi's "Livin' on a Prayer" (discussed in the [Pop/rock form overview](popRockForm.html)) contains a moderately complex set of cycles:
 
 > I {VPC} I {VPCZ} {C<sub>i</sub>PC} O
 
@@ -83,7 +83,7 @@ Very rarely a module’s phrases can be grouped into two clear halves based on d
 
 A module containing three phrases is a three-part module. If the first two phrases are based on the same music, the module is labeled _aa’b_.
 
-[12-bar blues progressions](popRockHarmony-blues) are the most common example of a three-part _aa’b_ module. "Hound Dog" (on the blues-progression page) contains aa'b strophes.
+[12-bar blues progressions](popRockHarmony-blues.html) are the most common example of a three-part _aa’b_ module. "Hound Dog" (on the blues-progression page) contains aa'b strophes.
 
 ### Three-part – abb’
 
@@ -91,12 +91,12 @@ If the second and third phrases in a three-part module are based on the same mus
 
 ### Four-part – srdc
 
-A module composed of four phrases often contains a [sentential structure](sentence) (presentation → continuation → cadential/conclusion). In pop/rock music, this often appears as a basic musical idea in the first phrase, a repetition or "response" to it in the second, contrasting material in the third phrase (often employing fragmentation, acceleration of harmonic rhythm, and movement away from tonic harmony), and a conclusion in the fourth phrase ― either with a return to the basic idea and tonic harmony or with still newer material that forms a strong melodic, rhythmic, and harmonic conclusion. Walter Everett has called such a four-phrase sentential structure in pop/rock music _srdc_ (statement, restatement/response, departure, conclusion).
+A module composed of four phrases often contains a [sentential structure](sentence.html) (presentation → continuation → cadential/conclusion). In pop/rock music, this often appears as a basic musical idea in the first phrase, a repetition or "response" to it in the second, contrasting material in the third phrase (often employing fragmentation, acceleration of harmonic rhythm, and movement away from tonic harmony), and a conclusion in the fourth phrase ― either with a return to the basic idea and tonic harmony or with still newer material that forms a strong melodic, rhythmic, and harmonic conclusion. Walter Everett has called such a four-phrase sentential structure in pop/rock music _srdc_ (statement, restatement/response, departure, conclusion).
 
 In conventional lettering, an _srdc_ module could employ an _aaba_ structure (with statement material returning as a restatement and again as the conclusion), or _aabc_ structure (where the conclusion material is new). Occasionally _abcd_ or _abca_ are possible, but only if _b_ is a clear response to _a_, not simply new material.
 
 _srdc_ structures tend to divide neatly into halves: _sr_ and _dc_.
 
-Carl Perkins's "Blue Suede Shoes" contains a clear _srdc_ structure in its second strophe (0:19; find a recording and complete module analysis on the [Pop/rock form overview](popRockForm)). It contains four four-bar phrases (following a [16-bar blues](popRockHarmony-blues) structure). The first two phrases (statement–restatement) contain the same harmony (tonic prolongation), melodies which begin identically, and though the lyrics differ, the rhythmic and rhyme schemes are the same. The third phrase (departure) brings a new melody, new harmony (move to the subdominant), and the title lyrics (this is a refrain shared with other strophes in the song). The final phrase (conclusion) closes out the poetic unit and the blues harmonic progression.
+Carl Perkins's "Blue Suede Shoes" contains a clear _srdc_ structure in its second strophe (0:19; find a recording and complete module analysis on the [Pop/rock form overview](popRockForm.html)). It contains four four-bar phrases (following a [16-bar blues](popRockHarmony-blues.html) structure). The first two phrases (statement–restatement) contain the same harmony (tonic prolongation), melodies which begin identically, and though the lyrics differ, the rhythmic and rhyme schemes are the same. The third phrase (departure) brings a new melody, new harmony (move to the subdominant), and the title lyrics (this is a refrain shared with other strophes in the song). The final phrase (conclusion) closes out the poetic unit and the blues harmonic progression.
 
 [_Back to pop/rock form overview._](popRockForm.html)

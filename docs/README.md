@@ -9,5 +9,5 @@ Major funding and technological support (including the building of the technolog
 
 The first major edition of OMT was made possible financially by [a crowdfunding campaign](http://www.hybridpedagogy.com/page-two/open-interactive-music-theory-textbook-campaign-update/) in the summer of 2014. Many thanks to the donors who supported the project (listed on the [about](about.html) page).
 
-[**About this textbook**](about.html)  
-[**Table of contents**](contents.html)
+[About this textbook](about.html)  
+[Table of contents](contents.html)

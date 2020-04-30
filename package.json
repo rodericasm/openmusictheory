@@ -6,7 +6,9 @@
   "author": "rodericasm <rodericasm@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.4.1"
+    "vuepress": "^1.4.1",
+    "vuepress-plugin-clean-urls": "^1.1.1",
+    "vuepress-plugin-medium-zoom": "^1.1.8"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",

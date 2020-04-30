@@ -1,14 +1,16 @@
 <template>
   <aside>
     <div class="logo_container">
-      <p class="logo_text">Open Music Theory</p>
+      <p class="logo_text center_text">Open Music Theory</p>
     </div>
     <div
       style="border-bottom: 3px solid black;   width: 65%;
   margin: auto; margin-top: 70px;
   padding-top: 10px;
   padding-bottom: 10px;"
-    >Search</div>
+    >
+      Search
+    </div>
 
     <ul class="sidebar_nav_container">
       <li class="nav_section" v-for="val in nav_build">
@@ -38,23 +40,34 @@ export default {
             { name: "Home", link: "/index.html" },
             {
               name: "About Open Music Theory",
-              link: "/about.html"
-            }
-          ]
+              link: "/about",
+            },
+          ],
         },
         {
           header: "Fundamentals",
           nav: [
-            { name: "Basic notation", link: "/popRockForm-containers.html" },
+            { name: "Basic notation", link: "/basicNotation" },
             {
-              name:
-                "Realizing a figured bass in strict basso continuo style (video).",
-              link: "/beams.html"
-            }
-          ]
-        }
-      ]
+              name: "Meter",
+              link: "/meter",
+            },
+            {
+              name: "Protonotation",
+              link: "/protonotation",
+            },
+            {
+              name: "Rhythmic values",
+              link: "/rhythmicValues",
+            },
+            {
+              name: "Beams and borrowed divisions",
+              link: "/beams",
+            },
+          ],
+        },
+      ],
     };
-  }
+  },
 };
 </script>
