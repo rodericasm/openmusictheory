@@ -2,16 +2,20 @@
   "name": "openmusic_reskin",
   "version": "1.0.0",
   "main": "layouts/Layout.vue",
+  "homepage": "http://rodericasm.github.io/openmusictheory_reskinned",
   "repository": "https://github.com/rodericasm/openmusictheory_reskinned.git",
   "author": "rodericasm <rodericasm@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "vuepress": "^1.4.1",
     "vuepress-plugin-clean-urls": "^1.1.1",
     "vuepress-plugin-medium-zoom": "^1.1.8"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "predeploy": "vuepress build docs",
+    "deploy": "gh-pages -d docs/.vuepress/dist"
   }
 }

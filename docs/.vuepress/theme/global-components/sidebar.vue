@@ -5,7 +5,7 @@
     </div>
     <div
       style="border-bottom: 3px solid black;   width: 65%;
-  margin: auto; margin-top: 70px;
+  margin: auto; margin-top: 90px;
   padding-top: 10px;
   padding-bottom: 10px;"
     >
@@ -132,8 +132,20 @@ export default {
               link: "/thoroughbassFigures",
             },
             {
-              name: "A brief history of _basso continuo_.",
+              name: "A brief history of basso continuo",
               link: "/bassoContinuo-history",
+            },
+            {
+              name: "Generating Roman numerals from a figured bass line.",
+              link: "/RNfromFB",
+            },
+            {
+              name: "Composing in basso-continuo style.",
+              link: "/bassoContinuo",
+            },
+            {
+              name: "Style and tendency.",
+              link: "/tendency",
             },
           ],
         },
