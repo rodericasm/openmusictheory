@@ -7,10 +7,8 @@ To realize an unfigured bass, first determine the harmonic functions projected b
 
 <iframe src="http://player.vimeo.com/video/48673007" width="500" height="375" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/><br/>
 
-
 The following chart provides the most common functions for each diatonic scale degree and the most common figures for each functional bass type. Keep in mind that once you have determined the functional progression, you may change the specific figures to smooth out the voice leading in the final realization.
 
 ![][figs]
-[*View chart full size.*][figs]
 
-[figs]: {{ site.url }}/Graphics/defaultFigures.png
+[figs]: Graphics/defaultFigures.png

@@ -31,7 +31,7 @@ The largest number typically found in thoroughbass figures is 7. In general, _co
 
 The most common chords in tonal music are [_triads_ and _seventh chords_](triads.html). The following figures apply to these chords:
 
- <img src="Graphics/figuresFull.png"  alt="figuresFull">
+ <img src="Graphics/harmony/figuresFull.png"  alt="figuresFull">
 
 - 5/3: use a fifth and a third above the bass (one note of the chord will be doubled)
 - 6/3: use a sixth and a third above the bass (one note of the chord will be doubled)
@@ -43,7 +43,7 @@ The most common chords in tonal music are [_triads_ and _seventh chords_](triads
 
 These figures are so common, that most of them have shortcuts:
 
- <img src="Graphics/figuresAbbrev.png"  alt="figuresAbbrev">  
+ <img src="Graphics/harmony/figuresAbbrev.png"  alt="figuresAbbrev">  
  
 - no figure = 5/3
 - 6 = 6/3
@@ -76,7 +76,7 @@ If a note is chromatically altered (different than the key signature), the figur
 
 Of course, there are some shortcuts. For example, draw a line (a "slash") through a number to denote that it is raised by half-step (can substitute both for sharp or for natural). Also, when altering the third above the bass, simply use the sharp, flat, or natural and leave out the "3."
 
- <img src="Graphics/figuresChrom.png"  alt="figuresChrom">
+ <img src="Graphics/harmony/figuresChrom.png"  alt="figuresChrom">
 
 In general, if there is a shortcut available, use it. The shortcuts are more standard than the corresponding full notation.
 

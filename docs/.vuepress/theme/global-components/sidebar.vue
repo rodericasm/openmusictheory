@@ -8,9 +8,7 @@
   margin: auto; margin-top: 90px;
   padding-top: 10px;
   padding-bottom: 10px;"
-    >
-      Search
-    </div>
+    >Search</div>
 
     <ul class="sidebar_nav_container">
       <li class="nav_section" v-for="val in nav_build">
@@ -40,9 +38,9 @@ export default {
             { name: "Home", link: "/index.html" },
             {
               name: "About Open Music Theory",
-              link: "/about",
-            },
-          ],
+              link: "/about"
+            }
+          ]
         },
         {
           header: "Fundamentals",
@@ -50,107 +48,137 @@ export default {
             { name: "Basic notation", link: "/basicNotation" },
             {
               name: "Meter",
-              link: "/meter",
+              link: "/meter"
             },
             {
               name: "Protonotation",
-              link: "/protonotation",
+              link: "/protonotation"
             },
             {
               name: "Rhythmic values",
-              link: "/rhythmicValues",
+              link: "/rhythmicValues"
             },
             {
               name: "Beams and borrowed divisions",
-              link: "/beams",
+              link: "/beams"
             },
             {
               name: "Pitches",
-              link: "/pitches",
+              link: "/pitches"
             },
             {
               name: "Scales and scale degrees",
-              link: "/scales",
+              link: "/scales"
             },
             {
               name: "Key signatures",
-              link: "/keySignatures",
+              link: "/keySignatures"
             },
             {
               name: "Intervals",
-              link: "/intervals",
+              link: "/intervals"
             },
             {
               name: "Triads and 7th chords",
-              link: "/triads",
+              link: "/triads"
             },
             {
               name: "Types of motion.",
-              link: "/motionTypes",
-            },
-          ],
+              link: "/motionTypes"
+            }
+          ]
         },
         {
           header: "Voice-leading and model composition",
           nav: [
             {
               name: "Introduction to strict voice-leading.",
-              link: "/speciesIntro",
-            },
-          ],
+              link: "/speciesIntro"
+            }
+          ]
         },
         {
           header: "Strict 2-voice composition (species counterpoint)",
           nav: [
             {
               name: "Composing a cantus firmus.",
-              link: "/cantusFirmus",
+              link: "/cantusFirmus"
             },
             {
               name: "Composing a first-species counterpoint.",
-              link: "/firstSpecies",
+              link: "/firstSpecies"
             },
             {
               name: "Composing a second-species counterpoint.",
-              link: "/secondSpecies",
+              link: "/secondSpecies"
             },
             {
               name: "Composing a third-species counterpoint.",
-              link: "/thirdSpecies",
+              link: "/thirdSpecies"
             },
             {
               name: "Composing a fourth-species counterpoint.",
-              link: "/fourthSpecies",
-            },
-          ],
+              link: "/fourthSpecies"
+            }
+          ]
         },
         {
           header: "Strict four-voice composition",
           nav: [
             {
               name: "Introduction to thoroughbass.",
-              link: "/thoroughbassFigures",
+              link: "/thoroughbassFigures"
             },
             {
               name: "A brief history of basso continuo",
-              link: "/bassoContinuo-history",
+              link: "/bassoContinuo-history"
             },
             {
               name: "Generating Roman numerals from a figured bass line.",
-              link: "/RNfromFB",
+              link: "/RNfromFB"
             },
             {
               name: "Composing in basso-continuo style.",
-              link: "/bassoContinuo",
+              link: "/bassoContinuo"
             },
             {
               name: "Style and tendency.",
-              link: "/tendency",
+              link: "/tendency"
             },
-          ],
-        },
-      ],
+            {
+              name: "Tendency tones and functional harmonic dissonances.",
+              link: "/tendencyTonesFunctionalDissonances"
+            },
+            {
+              name:
+                "Realizing a figured bass in strict basso continuo style (video).",
+              link: "/TBDemo"
+            },
+            {
+              name: "Melodic keyboard style voice-leading.",
+              link: "/melodicKeyboardStyle"
+            },
+            {
+              name: "Melodic keyboard style voice-leading schemata.",
+              link: "/KBVLschemata"
+            },
+            {
+              name:
+                "Realizing a figured bass line in melodic keyboard style (video).",
+              link: "/melodicKB"
+            },
+            {
+              name: "Realizing an unfigured bass line (video).",
+              link: "/unfiguredBass"
+            },
+            {
+              name: "Embellishing tones.",
+              link: "/embellishingTones"
+            }
+          ]
+        }
+      ]
     };
-  },
+  }
 };
 </script>
