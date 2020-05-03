@@ -10,12 +10,6 @@ module.exports = {
         href: `https://fonts.googleapis.com/css?family=Lora:400|Playfair+Display:800,400&display=swap`,
       },
     ],
-    [
-      "script",
-      {
-        src: `https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js`,
-      },
-    ],
   ],
   plugins: [
     [
@@ -29,13 +23,8 @@ module.exports = {
         },
       },
     ],
-    [
-      "vuepress-plugin-clean-urls",
-      {
-        normalSuffix: "",
-        indexSuffix: "/index.html",
-        notFoundPath: "/404.html",
-      },
-    ],
+    ["img-lazy"],
+    ["vuepress-plugin-nprogress"],
+    ["vuepress-plugin-smooth-scroll"],
   ],
 };

@@ -16,7 +16,6 @@
         />
       </svg>
     </div>
-
     <div class="logo_container center_nav_container">
       <p class="logo_text center_text">
         Open
@@ -110,53 +109,53 @@ export default {
             { name: "Home", link: "/index.html" },
             {
               name: "About Open Music Theory",
-              link: "/about",
+              link: "/about.html",
             },
           ],
         },
         {
           header: "Fundamentals",
           nav: [
-            { name: "Basic notation", link: "/basicNotation" },
+            { name: "Basic notation", link: "/basicNotation.html" },
             {
               name: "Meter",
-              link: "/meter",
+              link: "/meter.html",
             },
             {
               name: "Protonotation",
-              link: "/protonotation",
+              link: "/protonotation.html",
             },
             {
               name: "Rhythmic values",
-              link: "/rhythmicValues",
+              link: "/rhythmicValues.html",
             },
             {
               name: "Beams and borrowed divisions",
-              link: "/beams",
+              link: "/beams.html",
             },
             {
               name: "Pitches",
-              link: "/pitches",
+              link: "/pitches.html",
             },
             {
               name: "Scales and scale degrees",
-              link: "/scales",
+              link: "/scales.html",
             },
             {
               name: "Key signatures",
-              link: "/keySignatures",
+              link: "/keySignatures.html",
             },
             {
               name: "Intervals",
-              link: "/intervals",
+              link: "/intervals.html",
             },
             {
               name: "Triads and 7th chords",
-              link: "/triads",
+              link: "/triads.html",
             },
             {
               name: "Types of motion",
-              link: "/motionTypes",
+              link: "/motionTypes.html",
             },
           ],
         },
@@ -165,7 +164,7 @@ export default {
           nav: [
             {
               name: "Introduction to strict voice-leading",
-              link: "/speciesIntro",
+              link: "/speciesIntro.html",
             },
           ],
         },
@@ -174,23 +173,23 @@ export default {
           nav: [
             {
               name: "Composing a cantus firmus",
-              link: "/cantusFirmus",
+              link: "/cantusFirmus.html",
             },
             {
               name: "Composing a first-species counterpoint",
-              link: "/firstSpecies",
+              link: "/firstSpecies.html",
             },
             {
               name: "Composing a second-species counterpoint",
-              link: "/secondSpecies",
+              link: "/secondSpecies.html",
             },
             {
               name: "Composing a third-species counterpoint",
-              link: "/thirdSpecies",
+              link: "/thirdSpecies.html",
             },
             {
               name: "Composing a fourth-species counterpoint",
-              link: "/fourthSpecies",
+              link: "/fourthSpecies.html",
             },
           ],
         },
@@ -199,53 +198,53 @@ export default {
           nav: [
             {
               name: "Introduction to thoroughbass",
-              link: "/thoroughbassFigures",
+              link: "/thoroughbassFigures.html",
             },
             {
               name: "A brief history of basso continuo",
-              link: "/bassoContinuo-history",
+              link: "/bassoContinuo-history.html",
             },
             {
               name: "Generating Roman numerals from a figured bass line",
-              link: "/RNfromFB",
+              link: "/RNfromFB.html",
             },
             {
               name: "Composing in basso-continuo style",
-              link: "/bassoContinuo",
+              link: "/bassoContinuo.html",
             },
             {
               name: "Style and tendency",
-              link: "/tendency",
+              link: "/tendency.html",
             },
             {
               name: "Tendency tones and functional harmonic dissonances",
-              link: "/tendencyTonesFunctionalDissonances",
+              link: "/tendencyTonesFunctionalDissonances.html",
             },
             {
               name:
                 "Realizing a figured bass in strict basso continuo style (video)",
-              link: "/TBDemo",
+              link: "/TBDemo.html",
             },
             {
               name: "Melodic keyboard style voice-leading",
-              link: "/melodicKeyboardStyle",
+              link: "/melodicKeyboardStyle.html",
             },
             {
               name: "Melodic keyboard style voice-leading schemata",
-              link: "/KBVLschemata",
+              link: "/KBVLschemata.html",
             },
             {
               name:
                 "Realizing a figured bass line in melodic keyboard style (video)",
-              link: "/melodicKB",
+              link: "/melodicKB.html",
             },
             {
               name: "Realizing an unfigured bass line (video)",
-              link: "/unfiguredBass",
+              link: "/unfiguredBass.html",
             },
             {
               name: "Embellishing tones",
-              link: "/embellishingTones",
+              link: "/embellishingTones.html",
             },
           ],
         },
@@ -254,43 +253,43 @@ export default {
           nav: [
             {
               name: "Introduction to musical functions",
-              link: "/functions",
+              link: "/functions.html",
             },
             {
               name: "Harmonic functions",
-              link: "/harmonicFunctions",
+              link: "/harmonicFunctions.html",
             },
             {
               name: "Harmonic syntax - the idealized phrase",
-              link: "/harmonicSyntax1",
+              link: "/harmonicSyntax1.html",
             },
             {
               name: "Harmonic syntax - prolongation",
-              link: "/harmonicSyntax2",
+              link: "/harmonicSyntax2.html",
             },
             {
               name: "Performing a harmonic analysis",
-              link: "/harmonicAnalysis",
+              link: "/harmonicAnalysis.html",
             },
             {
               name: "Classical cadence types",
-              link: "/cadenceTypes",
+              link: "/cadenceTypes.html",
             },
             {
               name: "Chromatically altered subdominant chords",
-              link: "/alteredSubdominants",
+              link: "/alteredSubdominants.html",
             },
             {
               name: "Applied chords",
-              link: "/appliedChords",
+              link: "/appliedChords.html",
             },
             {
               name: "Modal mixture",
-              link: "/modalMixture",
+              link: "/modalMixture.html",
             },
             {
               name: "Modulation",
-              link: "/Modulation",
+              link: "/Modulation.html",
             },
           ],
         },
@@ -315,39 +314,39 @@ export default {
           nav: [
             {
               name: "The sentence.",
-              link: "/sentence",
+              link: "/sentence.html",
             },
             {
               name: "The period",
-              link: "/period",
+              link: "/period.html",
             },
             {
               name: "Hybrid themes",
-              link: "/hybridThemes",
+              link: "/hybridThemes.html",
             },
             {
               name: "Compound periods",
-              link: "/compoundPeriod",
+              link: "/compoundPeriod.html",
             },
             {
               name: "Compound sentences",
-              link: "/compoundSentence",
+              link: "/compoundSentence.html",
             },
             {
               name: "The small ternary",
-              link: "/smallTernary",
+              link: "/smallTernary.html",
             },
             {
               name: "The small binary",
-              link: "/smallBinary",
+              link: "/smallBinary.html",
             },
             {
               name: "Theme type reference",
-              link: "/classicalThemes",
+              link: "/classicalThemes.html",
             },
             {
               name: "Thematic function reference",
-              link: "/themeFunctions",
+              link: "/themeFunctions.html",
             },
           ],
         },
@@ -356,11 +355,11 @@ export default {
           nav: [
             {
               name: "External Expansions",
-              link: "/externalExpansions",
+              link: "/externalExpansions.html",
             },
             {
               name: "Internal Expansions",
-              link: "/internalExpansions",
+              link: "/internalExpansions.html",
             },
           ],
         },
@@ -369,74 +368,74 @@ export default {
           nav: [
             {
               name: "Introduction to Sonata Theory",
-              link: "/SonataTheory-intro",
+              link: "/SonataTheory-intro.html",
             },
             {
               name: "Sonata form: exposition types",
-              link: "/SonataTheory-exposition",
+              link: "/SonataTheory-exposition.html",
             },
             {
               name: "Structural Points of Arrival",
-              link: "/sonataStructuralPointsOfArrival",
+              link: "/sonataStructuralPointsOfArrival.html",
             },
             {
               name: "Thematic Modules",
-              link: "/sonataThematicModules",
+              link: "/sonataThematicModules.html",
             },
             {
               name: "Sonata form: the recapitulation",
-              link: "/sonataRecap",
+              link: "/sonataRecap.html",
             },
             {
               name: "Sonata form: the development",
-              link: "/sonataDevelopment",
+              link: "/sonataDevelopment.html",
             },
             {
               name: "Sonata form: framing modules (intro & coda)",
-              link: "/sonataFramingModules",
+              link: "/sonataFramingModules.html",
             },
           ],
         },
         {
           header: "Rondo Form",
           nav: [
-            { name: "Introduction to Rondo form", link: "/rondo" },
+            { name: "Introduction to Rondo form", link: "/rondo.html" },
             {
               name: "Thematic Function in Rondo Form",
-              link: "/thematicFunctionInRondo",
+              link: "/thematicFunctionInRondo.html",
             },
             {
               name: "Five-Part Rondo",
-              link: "/fivePartRondo",
+              link: "/fivePartRondo.html",
             },
             {
               name: "Sonata Rondo",
-              link: "/sonataRondo",
+              link: "/sonataRondo.html",
             },
           ],
         },
         {
           header: "Other formal structures in the classical style",
-          nav: [{ name: "Minuet form", link: "/minuet" }],
+          nav: [{ name: "Minuet form", link: "/minuet.html" }],
         },
         {
           header: "Galant Schemata",
           nav: [
             {
               name: "Galant schemata – opens and closes",
-              link: "/schemataOpensAndCloses",
+              link: "/schemataOpensAndCloses.html",
             },
             {
               name: "Galant Schemata – continuation patterns",
-              link: "/schemataContinuationPatterns",
+              link: "/schemataContinuationPatterns.html",
             },
             {
               name: "Galant schemata – summary",
-              link: "/schemataSummary",
+              link: "/schemataSummary.html",
             },
             {
               name: "Improvising a sentence with galant schemata",
-              link: "/schemata-improv",
+              link: "/schemata-improv.html",
             },
           ],
         },
@@ -445,15 +444,15 @@ export default {
           nav: [
             {
               name: "Pitch (class)",
-              link: "/pitch-class",
+              link: "/pitch-class.html",
             },
             {
               name: "Interval (class).",
-              link: "/interval-class",
+              link: "/interval-class.html",
             },
             {
               name: "Modular 12 arithmetic",
-              link: "/mod12",
+              link: "/mod12.html",
             },
           ],
         },
@@ -462,11 +461,11 @@ export default {
           nav: [
             {
               name: "Collections and Scales",
-              link: "/scales2",
+              link: "/scales2.html",
             },
             {
               name: "Symmetry and Centricity",
-              link: "/symmetryAndCentricity",
+              link: "/symmetryAndCentricity.html",
             },
           ],
         },
@@ -475,31 +474,31 @@ export default {
           nav: [
             {
               name: "Normal Order",
-              link: "/normalOrder",
+              link: "/normalOrder.html",
             },
             {
               name: "Tranposition",
-              link: "/transposition",
+              link: "/transposition.html",
             },
             {
               name: "Inversion",
-              link: "/inversion",
+              link: "/inversion.html",
             },
             {
               name: "Set Class and Prime Form (1)",
-              link: "/setClassAndPrimeForm1",
+              link: "/setClassAndPrimeForm1.html",
             },
             {
               name: "Set Class and Prime Form (2)",
-              link: "/setClassAndPrimeForm2",
+              link: "/setClassAndPrimeForm2.html",
             },
             {
               name: "Complements",
-              link: "/complements",
+              link: "/complements.html",
             },
             {
               name: "Common Tones under Transposition",
-              link: "/commonTonesUnderTransposition",
+              link: "/commonTonesUnderTransposition.html",
             },
           ],
         },
@@ -508,23 +507,23 @@ export default {
           nav: [
             {
               name: "Basics",
-              link: "/twelveToneBasics",
+              link: "/twelveToneBasics.html",
             },
             {
               name: "Operations",
-              link: "/twelveToneOperations",
+              link: "/twelveToneOperations.html",
             },
             {
               name: "Intervallic Structure",
-              link: "/twelveToneIntervallicStructure",
+              link: "/twelveToneIntervallicStructure.html",
             },
             {
               name: "Derivation",
-              link: "/twelveToneMusicDerivation",
+              link: "/twelveToneMusicDerivation.html",
             },
             {
               name: "Invariance",
-              link: "/twelveToneMusicInvariance",
+              link: "/twelveToneMusicInvariance.html",
             },
           ],
         },
@@ -533,19 +532,19 @@ export default {
           nav: [
             {
               name: "Analyzing a post-tonal piece from scratch",
-              link: "/postTonalAnalysis",
+              link: "/postTonalAnalysis.html",
             },
             {
               name: "Analyzing atonal music",
-              link: "/atonal",
+              link: "/atonal.html",
             },
             {
               name: "Analyzing 12-tone music",
-              link: "/twelveTone",
+              link: "/twelveTone.html",
             },
             {
               name: "Glossary of atonal musical terms",
-              link: "/atonalGlossary",
+              link: "/atonalGlossary.html",
             },
             {
               name: "Sheet of blank chromatic-scale clock faces",
@@ -559,7 +558,7 @@ export default {
           nav: [
             {
               name: "Syncopation in pop/rock music",
-              link: "/syncopation",
+              link: "/syncopation.html",
             },
           ],
         },
@@ -568,57 +567,60 @@ export default {
           nav: [
             {
               name: "Harmony in pop/rock music",
-              link: "/popRockHarmony",
+              link: "/popRockHarmony.html",
             },
             {
               name: "The '50s doo-wop' progression",
-              link: "/popRockHarmony-dooWop",
+              link: "/popRockHarmony-dooWop.html",
             },
             {
               name: "The 'Singer/Songwriter' progression",
-              link: "/popRockHarmony-sscp",
+              link: "/popRockHarmony-sscp.html",
             },
             {
               name: "The 'Puff' progression",
-              link: "/popRockHarmony-puff",
+              link: "/popRockHarmony-puff.html",
             },
             {
               name: "The blues progression",
-              link: "/popRockHarmony-blues",
+              link: "/popRockHarmony-blues.html",
             },
             {
               name: "The lament progression",
-              link: "/popRockHarmony-lament",
+              link: "/popRockHarmony-lament.html",
             },
             {
               name: "The circle-of-5ths progression (minor)",
-              link: "/popRockHarmony-fifths",
+              link: "/popRockHarmony-fifths.html",
             },
             {
               name: "Plagal progressions",
-              link: "/popRockHarmony-plagal",
+              link: "/popRockHarmony-plagal.html",
             },
           ],
         },
         {
           header: "(Pop/Rock) Form",
           nav: [
-            { name: "Form in pop/rock music overview", link: "/popRockForm" },
+            {
+              name: "Form in pop/rock music overview",
+              link: "/popRockForm.html",
+            },
             {
               name: "Terminology and basic concepts",
-              link: "/popRockForm-terms",
+              link: "/popRockForm-terms.html",
             },
             {
               name: "Formal containers and module structures",
-              link: "/popRockForm-containers",
+              link: "/popRockForm-containers.html",
             },
             {
               name: "Formal functions",
-              link: "/popRockForm-functions",
+              link: "/popRockForm-functions.html",
             },
             {
               name: "Analytical notation",
-              link: "/popRockForm-notation",
+              link: "/popRockForm-notation.html",
             },
           ],
         },
@@ -627,7 +629,7 @@ export default {
           nav: [
             {
               name: "Pop/Rock terminology and concepts",
-              link: "/popRockForm-terms",
+              link: "/popRockForm-terms.html",
             },
           ],
         },
@@ -636,7 +638,7 @@ export default {
           nav: [
             {
               name: "Analyzing poetry",
-              link: "/analyzingPoetry",
+              link: "/analyzingPoetry.html",
             },
           ],
         },
@@ -645,16 +647,7 @@ export default {
           nav: [
             {
               name: "Using Trinket (interactive music notation)",
-              link: "/trinket",
-            },
-          ],
-        },
-        {
-          header: "Technology",
-          nav: [
-            {
-              name: "Using Trinket (interactive music notation)",
-              link: "/trinket",
+              link: "/trinket.html",
             },
           ],
         },
