@@ -32,7 +32,8 @@ For flat keys (counter-clockwise on the circle of fifths), read the mnemonic dev
 Of course, minor keys can use key signatures, too. In fact, for each major key signature, there is a corresponding minor key that shares its signature. Major and minor keys that share the same key signature are called _relative_ keys. For example, both C major and A minor have zero sharps or flats. A minor is considered the _relative minor_ of C major; likewise, C major is considered the _relative major_ of A minor. Compare the minor key circle of fifths below with the major key circle of fifths above, and you'll see the remaining relative key pairs.
 
  <img src="Graphics/circleOfFifths-minor.png"  alt="circleOfFifths-minor"> 
-### Writing key signatures ###
+ 
+### Writing key signatures
 
 Below is a reference that shows how all of the key signatures should be written on treble, alto, tenor, and bass clefs.
 

@@ -12,11 +12,9 @@ Exercises in strict voice-leading, or species counterpoint, begin with a single,
 
 Our first exercises in strict voice-leading will be to compose good, well formed _cantus firmi_. The first step is to perform and analyze model _cantus firmi_, such as the following _cantus firmus_ in C major, composed by Heinrich Schenker.
 
-<iframe src="https://trinket.io/embed/music/da93d4d902" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe src="https://trinket.io/embed/music/da93d4d902" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 A number of others are provided [here][cfs].
-
-[cfs]: Graphics/counterpoint/cantusFirmi.pdf
 
 Performing these is a helpful practice to develop an internal sense of the sound and feel of a well formed _cantus_, and many of the characteristics of well formed _cantus firmi_ carry over into other musical styles. (These model _cantus firmi_ can also be used as the starting points for our two-voice exercises.)
 
@@ -53,4 +51,6 @@ The characteristics listed above are fairly detailed, and some of them are speci
 
 Before composing a _cantus firmus_ from scratch, try building a well formed _cantus_ around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above—both the specific characteristics of strict species _cantus firmi_ and the general characteristics of tonal melodies. Click the staff to hear the melody. Be sure to listen each time you make a change.
 
-<iframe class="trinket" src="https://trinket.io/embed/music/2df65adf8b" width="100%" height="240" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe class="trinket" src="https://trinket.io/embed/music/2df65adf8b" width="100%" height="240" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+[cfs]: Graphics/counterpoint/cantusFirmi.pdf

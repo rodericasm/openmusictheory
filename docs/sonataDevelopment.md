@@ -19,7 +19,7 @@ Near its end, a development section quite often reaches a HC in the tonic key to
 
 There is no single standard order in which themes are presented in the development. In theory, a composer may touch on any of the themes that were part of the exposition's thematic cycle, or even introduce new themes.
 
-However, some thematic layouts are more common than others. Developments that are based on P and TR are far more common than those based on S and C. 
+However, some thematic layouts are more common than others. Developments that are based on P and TR are far more common than those based on S and C.
 
 As a first principle, you should analyze a development in reference to the thematic cycle of the exposition (P-TR-S-C), realizing that leaving out some exposition modules is typical.
 
@@ -29,13 +29,12 @@ There are generally four modules available to a development, and not all of them
 
 **(1) Optional link** from the preceding retransition or the closing material. This has the feeling of preceding the "development proper."
 
-**(2) Entry or preparation zone:** Usually preparatory, often anticipatory, in a *piano* dynamic. Often P-based, but other options are possible.
+**(2) Entry or preparation zone:** Usually preparatory, often anticipatory, in a _piano_ dynamic. Often P-based, but other options are possible.
 
-**(3) **Central-action zone:** This is the "core" of the development and usually projects a mood of restlessness and instability. In fact, the musical techniques most associated with this section are those also associated with continuation function: sequence and fragmentation especially. The CAZ may unfold in a number of  sections, which are separated by cadences.
+**(3) Central-action zone:** This is the "core" of the development and usually projects a mood of restlessness and instability. In fact, the musical techniques most associated with this section are those also associated with continuation function: sequence and fragmentation especially. The CAZ may unfold in a number of sections, which are separated by cadences.
 
 When analyzing the CAZ you should be particularly attentive of sequence technique, in particular the D2 and A2 sequences. Most often a CAZ will establish a 2-, 4-, or 8-bar "model" that is sequenced any number of times. This model may make use of motivic material from the expositional rotation or new material.
 
 Following a passage of fragmentation, a CAZ concludes with a HC in the tonic key.
 
-**(4)  Retransition:** This follows the HC. Most often it contains a "standing on the dominant" and motivically may foreshadow the primary theme in order to build anticipation for the recapitulation.
-
+**(4) Retransition:** This follows the HC. Most often it contains a "standing on the dominant" and motivically may foreshadow the primary theme in order to build anticipation for the recapitulation.

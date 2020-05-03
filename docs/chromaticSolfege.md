@@ -5,7 +5,7 @@ title: Chromatic solfège syllables and sequentials
 
 ## Chromatically raised pitches
 
-In a major key, *mi* and *ti* form a semitone with the pitches above them in the scale. As a result, they are not usually chromatically raised. The other scale degrees—*d*, *re*, *fa*, *sol*, and *la*—can all be raised by semitone without reproducing another tone in the scale. In each case, the vowel of the solfège syllable is changed to "i" to reflect the higher pitch. *Do* becomes *di*, *re* becomes *ri*, and so on. 
+In a major key, _mi_ and _ti_ form a semitone with the pitches above them in the scale. As a result, they are not usually chromatically raised. The other scale degrees—_d_, _re_, _fa_, _sol_, and _la_—can all be raised by semitone without reproducing another tone in the scale. In each case, the vowel of the solfège syllable is changed to "i" to reflect the higher pitch. _Do_ becomes _di_, _re_ becomes _ri_, and so on.
 
 Following is an ascending chromatic scale, using these raised syllables for chromatically altered tones. Diatonic scale steps are in bold.
 
@@ -15,23 +15,23 @@ In a minor key, start with the natural-minor syllables for diatonic pitches. Use
 
 > **do** di **re** **me** mi **fa** fi **sol** **le** la **te** ti **do**
 
-(Note the use of *me* not *ri*, *le* not *si*, and *te* not *li* in a minor-key context.)
+(Note the use of _me_ not _ri_, _le_ not _si_, and _te_ not _li_ in a minor-key context.)
 
 ## Chromatically lowered pitches
 
-All scale steps besides *do* and *fa* can be lowered chromatically, and these lowered tones replace the vowel of their solfège syllable with "e" or "a." (Lower pitches take more open mouth formations—ah, eh—while higher pitches take smaller, more closed mouth formations—i.) 
+All scale steps besides _do_ and _fa_ can be lowered chromatically, and these lowered tones replace the vowel of their solfège syllable with "e" or "a." (Lower pitches take more open mouth formations—ah, eh—while higher pitches take smaller, more closed mouth formations—i.)
 
 Following is a descending chromatic scale, using the lowered syllables for chromatically altered tones. Note that for scale-degrees 3, 6, and 7, these are simply the natural-minor-scale syllables.
 
 > **do** **ti** te **la** le **sol** se **fa** **mi** me **re** ra **do**
 
-(Note that, while lowered-scale-degree 5 is technically *se*, functionally that pitch is usually a secondary leading-tone of V. Thus, we almost always sing *fi* in melodies, even when descending.)
+(Note that, while lowered-scale-degree 5 is technically _se_, functionally that pitch is usually a secondary leading-tone of V. Thus, we almost always sing _fi_ in melodies, even when descending.)
 
-Because *ti* and *la* belong to minor, and because *fa* is rarely ever chromatically lowered in a tonal context, the descending chromatic syllables in minor are the same as in major.
+Because _ti_ and _la_ belong to minor, and because _fa_ is rarely ever chromatically lowered in a tonal context, the descending chromatic syllables in minor are the same as in major.
 
 ## Exercises to build fluency
 
-Like the [melodic sequentials](melodicSequentials.html) for diatonic solfège syllables, some basic exercises can help build fluidity with chromatic syllables. 
+Like the [melodic sequentials](melodicSequentials.html) for diatonic solfège syllables, some basic exercises can help build fluidity with chromatic syllables.
 
 ### 1) Complete lower neighbors
 
@@ -67,7 +67,7 @@ do ra do | te ti te | le la le | . . . | re me re | do
 
 ### 3) Incomplete lower neighbors
 
-For each scale degree, sing tonic then the lower neighbor to the scale degree followed by its resolution up by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
+For each scale degree, sing tonic then the lower neighbor to the scale degree followed by its resolution up by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than _do_ at the beginning of each bar.)
 
 **ascending major:**  
 do ti do | do di re | do ri mi | do mi fa | do fi sol | do si la | do li ti | do ti do |
@@ -83,7 +83,7 @@ do ti do | do la te | do sol le | do fi sol | do mi fa | do re me | do di re | d
 
 ### 4) Incomplete upper neighbors
 
-For each scale degree, sing tonic then the upper neighbor to the scale degree followed by its resolution down by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
+For each scale degree, sing tonic then the upper neighbor to the scale degree followed by its resolution down by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than _do_ at the beginning of each bar.)
 
 **ascending major:**  
 do ra do | do me re | do fa mi | do fi fa | do le sol | do te la | do do ti | do ra do |
@@ -96,4 +96,3 @@ do ra do | do me re | do mi me | do fi fa | do le sol | do la le | do ti te | do
 
 **descending major:**  
 do ra do | do ti te | do la le | do le sol | do fi fa | do mi me | do me re | do ra do |
-

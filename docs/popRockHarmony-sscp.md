@@ -4,9 +4,9 @@ title: The Singer/Songwriter chord progression
 ---
 
 **&#124;&#124;: VI – IV – I – V :&#124;&#124;** (in major)  
-**&#124;&#124;: I – VI – III – VII :&#124;&#124;** (in minor) 
+**&#124;&#124;: I – VI – III – VII :&#124;&#124;** (in minor)
 
-Like the 50s doo-wop, this is a four-chord cyclical progression. It has been around for some time but became increasingly common beginning in the mid-1990s with singer/songwriters such as Sarah McLachlan, Jewel, and Joan Osborne, though the chord progression can be found in a variety of musical styles. 
+Like the 50s doo-wop, this is a four-chord cyclical progression. It has been around for some time but became increasingly common beginning in the mid-1990s with singer/songwriters such as Sarah McLachlan, Jewel, and Joan Osborne, though the chord progression can be found in a variety of musical styles.
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:3ozomn4PrGEKEuusxX2HpC" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
@@ -16,7 +16,7 @@ Like the 50s doo-wop, this is a four-chord cyclical progression. It has been aro
 
 This progression is interesting in two particular ways. First, like the 50s doo-wop, it can begin its rotation in places other than the first chord. For example, U2′s “With or Without You” cycles through this progression with phrases starting on tonic:
 
-**&#124;&#124;: I – V – VI – IV :&#124;&#124;** 
+**&#124;&#124;: I – V – VI – IV :&#124;&#124;**
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
@@ -30,6 +30,6 @@ can sound like VI–IV–I–V in C major, or like I–VI–III–VII in A minor
 
 Lastly, we find a "deceptive" variant of this progression from time to time. Here the cycle of chords begins on IV in order to end on V–VI, allowing phrases to end with a deceptive cadence. "Mexico" by Jump, Little Children incorporates this "deceptive" variant (as well as the original version). Listen to the last two phrases of each strophe. Both phrases employ the deceptive variant, except the final phrase has its last chord elided by the I chord that begins the next module. The result is a phrase ending with a deceptive cadence, followed by a phrase that ends with V–I, or deceptive cadence (DC) => perfect authentic cadence (PAC).
 
-**&#124;&#124;: IV – I – V – VI :&#124;&#124;** ("deceptive" variant)  
+**&#124;&#124;: IV – I – V – VI :&#124;&#124;** ("deceptive" variant)
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:4bAlvRdlQeyMxi6EokQduj" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>

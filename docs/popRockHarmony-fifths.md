@@ -15,7 +15,7 @@ The verse of Muse’s “Thoughts of a Dying Atheist” begins with a [lament pr
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-For a complete circle-of-fifths progression, see Gloria Gaynor’s “I Will Survive”:
+For a complete circle-of-5ths progression, see Gloria Gaynor’s “I Will Survive”:
 
 **&#124;&#124;: I – IV – VII – III – VI – II – V / :&#124;&#124;**
 

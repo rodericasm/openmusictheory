@@ -7,7 +7,7 @@ title: The "50s doo-wop" progression
 or  
 **&#124;&#124;: I – VI – II – V :&#124;&#124;**
 
-This cyclical chord progression was very common in rock ballads from the 1950s and early 1960s, hence the name (example: “Duke of Earl” by Gene Chandler). 
+This cyclical chord progression was very common in rock ballads from the 1950s and early 1960s, hence the name (example: “Duke of Earl” by Gene Chandler).
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1CX9WKs56Ur7r1NDPmuowt" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 

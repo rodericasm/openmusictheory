@@ -81,6 +81,6 @@ _Exercise: In the examples above, find the functional dissonance in each applied
 
 _Exercise: on the bullet list above, determine which solfège syllable(s) are the functional dissonance for each applied chord._
 
-[D7ofV]: {{ site.url }}/Graphics/D7ofV.png
-[alteredSubdominants]: alteredSubdominants.html
-[appliedBassLine]: {{ site.url }}/Graphics/appliedChordBassLine.png
+[d7ofv]: Graphics/D7ofV.png
+[alteredsubdominants]: alteredSubdominants.html
+[appliedbassline]: Graphics/appliedChordBassLine.png

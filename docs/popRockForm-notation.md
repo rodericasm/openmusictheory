@@ -11,9 +11,9 @@ Modules are labeled with capital letters according to function. A module that fu
 
 ## Lower-case letters
 
-Phrases are labeled with lower-case letters according to their musical content. If two phrases use more-or-less the same musical framework (harmony, melody, and rhythm), they receive the same letter. Letters are assigned in the same manner as poetic rhymes: the first phrase is *a* and any phrase that follows based on the same music is also *a* (primes are used for slight variations, such as new text or altered instrumentation); the next phrase with new musical material is b; and so on. These letters do *not* correspond to functions. 
+Phrases are labeled with lower-case letters according to their musical content. If two phrases use more-or-less the same musical framework (harmony, melody, and rhythm), they receive the same letter. Letters are assigned in the same manner as poetic rhymes: the first phrase is _a_ and any phrase that follows based on the same music is also _a_ (primes are used for slight variations, such as new text or altered instrumentation); the next phrase with new musical material is b; and so on. These letters do _not_ correspond to functions.
 
-The single exception to this convention is when phrases within a module demonstrate a sentential progression (*srdc*), in which case the first phrase (statement) is labeled *s*; restatement/response, *r*; departure, *d*; conclusion, *c*.
+The single exception to this convention is when phrases within a module demonstrate a sentential progression (_srdc_), in which case the first phrase (statement) is labeled _s_; restatement/response, _r_; departure, _d_; conclusion, _c_.
 
 ## Full-sized numerals
 
@@ -25,9 +25,8 @@ Subscript numerals are attached to capital letters when there are two or more mo
 
 ## Timeline notation
 
-[Variations Audio Timeliner][VAT] does not support subscripts. It is fine to use full-sized numerals for both purposes if making timelines in VAT.
+[Variations Audio Timeliner][vat] does not support subscripts. It is fine to use full-sized numerals for both purposes if making timelines in VAT.
 
-[*Back to pop/rock form overview.*](popRockForm.html)
+[_Back to pop/rock form overview._](popRockForm.html)
 
-[VAT]: http://variations.sourceforge.net/vat/
-
+[vat]: http://variations.sourceforge.net/vat/

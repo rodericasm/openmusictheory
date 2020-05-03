@@ -23,7 +23,7 @@ In a sonata, a transition may be "modulating" or "non-modulating." A non-modulat
 
 ### Melodic/motivic characteristics
 
-We will follow Hepokoski & Darcy's practice of locating the beginning of TR at the start of a phrase. In general, once you hear TR function clearly projected, track back to the beginning of that phrase and label it the beginning of TR. Unlike primary themes, transitions are much "looser" thematically. This module of the sonata is often associated with phrase [expansions](internalExpansions.html) and compression. More generally, anything that can be associated with [*continuation function*](sentence.html) fits transition function, as well: fragmentation, liquidation, acceleration of melodic or harmonic rhythm, etc.
+We will follow Hepokoski & Darcy's practice of locating the beginning of TR at the start of a phrase. In general, once you hear TR function clearly projected, track back to the beginning of that phrase and label it the beginning of TR. Unlike primary themes, transitions are much "looser" thematically. This module of the sonata is often associated with phrase [expansions](internalExpansions.html) and compression. More generally, anything that can be associated with [_continuation function_](sentence.html) fits transition function, as well: fragmentation, liquidation, acceleration of melodic or harmonic rhythm, etc.
 
 Melodically, we classify transitions as (1) _independent_, or (2) _dissolving_.
 
@@ -31,16 +31,15 @@ An _independent TR_ begins with new thematic material. In other words, it is not
 
 _Dissolving TR_ modules all take some part of the P theme and dissolve, degenerate, or liquidate as the module gains energy and moves toward the MC.
 
-* In the case of a _dissolving_ restatement, P ends and then seems to begin again. This restatement of P dissolves into TR function, and we can subsequently reinterpret the whole theme as a dissolving-restatement type of TR.
-* In a _dissolving_ consequent, continuation, or hybrid, the P module will consist of the opening phrase of a theme, and the closing phrase of the theme will begin as usual but degenerate into TR.
-* A _dissolving_ P-codetta will introduce post-cadential material to reinforce the cadence at the end of P, and that post-cadential material will dissolve into TR rhetoric.
+- In the case of a _dissolving_ restatement, P ends and then seems to begin again. This restatement of P dissolves into TR function, and we can subsequently reinterpret the whole theme as a dissolving-restatement type of TR.
+- In a _dissolving_ consequent, continuation, or hybrid, the P module will consist of the opening phrase of a theme, and the closing phrase of the theme will begin as usual but degenerate into TR.
+- A _dissolving_ P-codetta will introduce post-cadential material to reinforce the cadence at the end of P, and that post-cadential material will dissolve into TR rhetoric.
 
 In the following example from Beethoven's Piano Sonata in G minor, Op. 49, No. 1, a III: HC MC is clearly found in m. 15 and coincides with the structural HC. Backtracking, notice the continuational characteristics at m. 12 which indicate that the transition must begin at m. 9. (Remember, we always begin a transition at the _start_ of a phrase.) Both the primary theme and transition begin with the same presentation, and therefore, this is a _modulating_, _dissolving_ transition. As a listener, we will likely not realize that the transition is a transition until we reach m. 12, where the continuation begins to project characteristics associated with TR.
 
-
 **Beethoven, Piano Sonata in G minor, Op. 49, No. 1, i**
 
-[![]({{ site.url }}/Graphics/form/TR.png)]({{ site.url }}/Graphics/form/TR.png)
+ <img src="Graphics/form/TR.png"  alt="TR">
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5NSEaoEaSNdD3XQM54e0C6" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 

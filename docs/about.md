@@ -3,13 +3,9 @@ layout: post
 title: About Open Music Theory
 ---
 
-## Formal Containers
+## Inverted (or flipped) music theory
 
-### Phrase
-
-A phrase is a musical unit that typically lasts for four bars and includes one line of poetry for its lyrical content. Phrases are designated by lower-case letters.
-
-### Module
+This textbook is meant to support _active student engagement with music_ in the theory classroom. That means that this text is meant to take a back seat to student music making (and breaking). It is not the center of the course.
 
 The three original authors use this textbook in the context of "inverted" or "flipped" courses, often following an [inquiry-based model](http://www.flipcamp.org/engagingstudents/shafferpt3.html).
 

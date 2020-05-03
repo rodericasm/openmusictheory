@@ -28,8 +28,7 @@ All of these features help delineate the boundary between modules, and most of t
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d)  
-Spotify URI: [spotify:track:3dh2LlmeMqKJbzn2WUgt3d](spotify:track:3dh2LlmeMqKJbzn2WUgt3d)
+Album link: [https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d)
 
 _All module definitions are based on Jason Summach's (2012) dissertation, "Form in Top-20 Rock Music, 1955–89."_
 

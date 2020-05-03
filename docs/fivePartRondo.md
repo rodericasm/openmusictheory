@@ -7,4 +7,4 @@ A five-part rondo contains three refrains separated by two episodes: ABACA. (We 
 
 The episodes of a five-part rondo are interior themes or second-theme complexes. It is more common to find a second-theme complex in Episode 1 than it is to find one in Episode 2. Often, the returns of the refrain are ornamented or abridged.
 
-The older *rondeau*, from which this formal type derives, could feature many more refrains and episodes. Occasionally, therefore, you will find a seven-, or even nine-part rondo in the classical style.
+The older _rondeau_, from which this formal type derives, could feature many more refrains and episodes. Occasionally, therefore, you will find a seven-, or even nine-part rondo in the classical style.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Pachelbel progression 
+title: The Pachelbel progression
 ---
 
 **&#124;&#124;: I – V – VI – III – IV – I – IV – V :&#124;&#124;**
@@ -22,4 +22,3 @@ Here are a few of the numerous examples mentioned by Paravonian that feature the
 <iframe src="https://embed.spotify.com/?uri=spotify:track:0NJC0FDCODpPUntRTTQq97" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:27IRo2rYeizhRMDaNVplNM" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
-

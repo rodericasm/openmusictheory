@@ -2,6 +2,21 @@ module.exports = {
   base: "/openmusictheory_reskinned/",
   description:
     "Open Music Theory is an open-source, interactive, online textbook for college-level music theory courses.",
+  head: [
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: `https://fonts.googleapis.com/css?family=Lora:400|Playfair+Display:800,400&display=swap`,
+      },
+    ],
+    [
+      "script",
+      {
+        src: `https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js`,
+      },
+    ],
+  ],
   plugins: [
     [
       "vuepress-plugin-medium-zoom",

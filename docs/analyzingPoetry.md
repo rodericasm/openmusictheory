@@ -3,16 +3,16 @@ layout: post
 title: Analyzing poetry
 ---
 
-*This resource created by Jonathan Sircy, Department of English, Charleston Southern University.*
+_This resource created by Jonathan Sircy, Department of English, Charleston Southern University._
 
 ## What is poetry?
 
-We can distinguish *poetry* from *prose* by its
+We can distinguish _poetry_ from _prose_ by its
 
-- preference for formal organization,  
-- intensely conveyed emotions and images,  
+- preference for formal organization,
+- intensely conveyed emotions and images,
 - and concentrated use of language.
- 
+
 Poetry favors the concrete and particular over the vague and abstract. Poetic language isn’t disconnected from normal communication. Rather, it conveys ideas and emotions with greater precision than everyday language.
 
 ## How can we analyze poetry?
@@ -21,16 +21,16 @@ There are several ways to skin the poetic cat. What follows are four large categ
 
 ### STRUCTURE
 
-If we pay attention to a particular poem’s meter, tone, imagery, and figurative language, we are able to talk about a poem’s *unity*. This attention to structure starts from the premise that each of the poem’s parts work together organically (rather than, say, mechanically) to achieve a unified goal. If we were to put that goal into a single sentence, we would have the poem’s *theme*, a succinct statement of the poem’s central idea and emotions.
+If we pay attention to a particular poem’s meter, tone, imagery, and figurative language, we are able to talk about a poem’s _unity_. This attention to structure starts from the premise that each of the poem’s parts work together organically (rather than, say, mechanically) to achieve a unified goal. If we were to put that goal into a single sentence, we would have the poem’s _theme_, a succinct statement of the poem’s central idea and emotions.
 
 **Chief question: What idea or emotion UNIFIES the poem’s different parts?**
 
 **Key terms: meter, tone, imagery, figurative language**
 
-*Meter*: the pattern of accented and unaccented syllables in a given poetic line  
-*Tone*: the speaker’s attitude toward his subject, audience, or himself  
-*Imagery*: the poetic representation of any sense experience  
-*Figurative language*: the non-literal use of language to achieve an effect
+_Meter_: the pattern of accented and unaccented syllables in a given poetic line  
+_Tone_: the speaker’s attitude toward his subject, audience, or himself  
+_Imagery_: the poetic representation of any sense experience  
+_Figurative language_: the non-literal use of language to achieve an effect
 
 ### HISTORICAL CONTEXT
 
@@ -40,7 +40,7 @@ When we pay attention to a poem’s structure, we pretend that it is an artifact
 
 ### INTERTEXTUALITY
 
-Poems aren’t just in conversation with history. They’re in conversation with other poems. This means that a literary work—in its form and/or content—resembles other literary works. When we focus on formal similarities, we’re concerned with genres, the different types or subcategories a poet has chosen (e.g. epic, lyric, satire). When we focus on similar content, we are either discussing *allusions*—intended references to another literary image—or *archetypes*, images or characters that appear so frequently they are less the domain of one author than part of a common literary heritage.
+Poems aren’t just in conversation with history. They’re in conversation with other poems. This means that a literary work—in its form and/or content—resembles other literary works. When we focus on formal similarities, we’re concerned with genres, the different types or subcategories a poet has chosen (e.g. epic, lyric, satire). When we focus on similar content, we are either discussing _allusions_—intended references to another literary image—or _archetypes_, images or characters that appear so frequently they are less the domain of one author than part of a common literary heritage.
 
 **Chief question: How is this literary work like/unlike other literary works?**
 

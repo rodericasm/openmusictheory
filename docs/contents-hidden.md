@@ -3,124 +3,122 @@ layout: post
 title: Table of Contents
 ---
 
-{{ page.title }}
-================
+## Introduction
 
-## Introduction ##
+[Introduction to this "textbook" (for instructors & scholars).][introsite]
 
-[Introduction to this "textbook" (for instructors & scholars).][introSite]  
-
-## Fundamentals ##
+## Fundamentals
 
 [Protonotation.](protonotation.html)  
 [Meter and time signatures.][meter]  
 [Pitches and octave designations.][pitches]  
 [Intervals and dyads.][intervals]  
 [Triads and seventh chords.][triads]  
-[Types of contrapuntal motion.][motionTypes]
+[Types of contrapuntal motion.][motiontypes]
 
-## Voice-leading and model composition ##
+## Voice-leading and model composition
 
-[Introduction to strict voice-leading.][speciesIntro]  
+[Introduction to strict voice-leading.][speciesintro]
 
 ### Strict two-voice composition (species counterpoint)
 
-[Composing a cantus firmus.][CF]  
-[Composing a first-species counterpoint.][firstSpecies]  
-[Composing a second-species counterpoint.][secondSpecies]  
-[Composing a third-species counterpoint.][thirdSpecies]  
-[Composing a fourth-species counterpoint.][fourthSpecies]  
+[Composing a cantus firmus.][cf]  
+[Composing a first-species counterpoint.][firstspecies]  
+[Composing a second-species counterpoint.][secondspecies]  
+[Composing a third-species counterpoint.][thirdspecies]  
+[Composing a fourth-species counterpoint.][fourthspecies]
 
 ### Strict four-voice composition
 
 [Introduction to thoroughbass.][thoroughbass]  
-[A brief history of *basso continuo*.](bassoContinuo-history.html)  
-[Composing in *basso-continuo* style.](bassoContinuo.html)  
+[A brief history of _basso continuo_.](bassoContinuo-history.html)  
+[Composing in _basso-continuo_ style.](bassoContinuo.html)  
 [Style and tendency.](tendency.html)  
 [Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)  
-[Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)  
+[Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)
 
 [Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)  
 [Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)  
 [Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)  
-[Realizing an unfigured bass line (video).][unfiguredBass]  
+[Realizing an unfigured bass line (video).][unfiguredbass]
 
-## Harmony ##
+## Harmony
 
-[Embellishing tones.][embellishingTones]  
+[Embellishing tones.][embellishingtones]
 
 [Introduction to musical functions.][functions]  
-[Harmonic functions.][harmFunc]  
+[Harmonic functions.][harmfunc]  
 [Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)  
-[Harmonic syntax - prolongation.](harmonicSyntax2.html)  
+[Harmonic syntax - prolongation.](harmonicSyntax2.html)
+
 <!-- [Performing a harmonic analysis.](harmonicAnalysis.html) -->
 
-[Classical cadence types.][cadenceTypes]  
-[Generating Roman numerals from a figured bass line.][RNfromFB]  
-[Chromatically altered subdominant chords.][altSub]  
+[Classical cadence types.][cadencetypes]  
+[Generating Roman numerals from a figured bass line.][rnfromfb]  
+[Chromatically altered subdominant chords.][altsub]  
 [Applied chords.][applied]  
 [Modal mixture.][mixture]  
-[Modulation.][Modulation]  
+[Modulation.][modulation]
 
-[Harmony in pop/rock music.][popRockHarmony]    
+[Harmony in pop/rock music.][poprockharmony]
 
-###### Handouts and charts ######
+###### Handouts and charts
 
-[Lead-sheet and figured-bass symbols.][LSandFBsymbols]  
-[Harmonies (Roman numerals and functional bass) by bass scale degree.]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
+[Lead-sheet and figured-bass symbols.][lsandfbsymbols]  
+[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
-
-## Form ##
+## Form
 
 **Thematic Structure in the Classical Style**
 
-[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)   
+[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)  
 [The sentence.](sentence.html)  
 [The period.](period.html)  
 [Hybrid themes.](hybridThemes.html)  
 [Compound periods.](compoundPeriod.html)
 [Compound sentences.](compoundSentence.html)  
 [External Expansions.](externalExpansions.html)  
-[Internal Expansions.](internalExpansions.html)  
+[Internal Expansions.](internalExpansions.html)
 
-[**Minuet form**.](minuet.html)  
-  
+[**Minuet form**.](minuet.html)
+
 **Sonata Form**
 
-[Introduction to Sonata Theory.][SonataIntro]    
-[Sonata form: exposition types.][SonataExpo]  
-- [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)  
+[Introduction to Sonata Theory.][sonataintro]  
+[Sonata form: exposition types.][sonataexpo]
+
+- [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)
 - [Thematic Modules.](sonataThematicModules.html)  
-[Sonata form: the recapitulation.][SonataRecap]  
-[Sonata form: the development.](sonataDevelopment.html) 
+  [Sonata form: the recapitulation.][sonatarecap]  
+  [Sonata form: the development.](sonataDevelopment.html)
 
 **Rondo Form**
 
 [Introduction to Rondo form.](rondo.html)  
 [Thematic Function in Rondo Form.](thematicFunctionInRondo.html)  
 [Five-Part Rondo.](fivePartRondo.html)  
-[Sonata Rondo.](sonataRondo.html)  
+[Sonata Rondo.](sonataRondo.html)
 
-[**Form in pop/rock music.**][popRockForm]  
+[**Form in pop/rock music.**][poprockform]
 
-[Classical theme types.][classicalThemes]   
+[Classical theme types.][classicalthemes]  
 [Introduction to musical functions.](functions.html)  
-[Galant schemata.][Schemata]  
+[Galant schemata.][schemata]
 
-## Post-tonal music ##
+## Post-tonal music
 
-**Basics**  
+**Basics**
 
-[Pitch (class).](pitch(Class).html)  
-[Interval (class).](interval(Class).html)  
-[Modular 12 arithmetic.](mod12.html)    
+[Pitch (class).](<pitch(Class).html>)  
+[Interval (class).](<interval(Class).html>)  
+[Modular 12 arithmetic.](mod12.html)
 
-**Organizing Forces**  
+**Organizing Forces**
 
 [Collections and Scales.](scales.html)  
-[Symmetry and Centricity.](symmetryAndCentricity.html)  
+[Symmetry and Centricity.](symmetryAndCentricity.html)
 
-**Set Theory**  
+**Set Theory**
 
 Pitch-Class Sets.  
 [Normal Order.](normalOrder.html)  
@@ -131,104 +129,95 @@ Pitch-Class Sets.
 [Complements.](complements.html)  
 [Common Tones under Transposition.](commonTonesUnderTransposition.html)  
 Common Tones under Inversion.  
-Tranpositional Symmetry.  
+Tranpositional Symmetry.
 
-**Twelve-Tone Theory**  
+**Twelve-Tone Theory**
 
 [Basics.](twelveToneBasics.html)  
 [Operations.](twelveToneOperations.html)  
 [Intervallic Structure.](twelveToneIntervallicStructure.html)  
 [Derivation.](twelveToneMusicDerivation.html)  
-[Invariance.](twelveToneMusicInvariance.html)  
-
+[Invariance.](twelveToneMusicInvariance.html)
 
 [Analyzing atonal music.][atonal]  
-[Analyzing 12-tone music.][twelveTone]  
-[Glossary of atonal musical terms.][atonalGloss]  
+[Analyzing 12-tone music.][twelvetone]  
+[Glossary of atonal musical terms.][atonalgloss]
 
-[Sheet of blank chromatic-scale clock faces.][clocks]  
+[Sheet of blank chromatic-scale clock faces.][clocks]
 
-
-## Technology ##
+## Technology
 
 [Uploading and sharing a file via Google Drive.](GDrive.html)  
-[Typesetting a keyboard-style voice-leading exercise.][kbTypesetting]  
-[Using Variations Audio Timeliner.][VAT]  
-[Adding a creative commons license to a blog post.][addCC]  
-[Posting a blog link to Twitter.][linkToTwitter]  
-[Creating a musical graphic and importing it into a text document.][createGraphic]
+[Typesetting a keyboard-style voice-leading exercise.][kbtypesetting]  
+[Using Variations Audio Timeliner.][vat]  
+[Adding a creative commons license to a blog post.][addcc]  
+[Posting a blog link to Twitter.][linktotwitter]  
+[Creating a musical graphic and importing it into a text document.][creategraphic]
 
-## Performance ##
+## Performance
 
 [Melodic sequentials.](melodicSequentials.html)  
-[Harmonic sequentials.]({{ site.url }}/Graphics/harmonicSequential.pdf)  
+[Harmonic sequentials.](Graphics/harmonicSequential.pdf)  
 [Chromatic solfège syllables and sequentials.](chromaticSolfege.html)  
-[Sight-singing tips.][sightSinging]  
+[Sight-singing tips.][sightsinging]
 
-## Listening ##
+## Listening
 
 [Transcribing syncopation in pop/rock music.][syncopation]  
-[Melodic dictation demo.][melDict]  
+[Melodic dictation demo.][meldict]
 
-## Text and music ##
+## Text and music
 
-[Analyzing poetry.][poetry]  
+[Analyzing poetry.][poetry]
 
-
-
-[introSite]: about.html
-
+[introsite]: about.html
 [meter]: meter.html
 [pitches]: pitches.html
 [intervals]: Intervals.html
 [triads]: triads.html
-[motionTypes]: motionTypes.html
-
-[speciesIntro]: speciesIntro.html
-[CF]: cantusFirmus.html
-[secondSpecies]: secondSpecies.html
-[firstSpecies]: firstSpecies.html
-[thirdSpecies]: thirdSpecies.html
-[fourthSpecies]: fourthSpecies.html
-[strictKeyboardStyle]: strictKeyboardStyle.html
-[KBVLschemata]: KBVLschemata.html
-[melKB]: melodicKB.html
-[popRockVL]: popRockVL.html
-
+[motiontypes]: motionTypes.html
+[speciesintro]: speciesIntro.html
+[cf]: cantusFirmus.html
+[secondspecies]: secondSpecies.html
+[firstspecies]: firstSpecies.html
+[thirdspecies]: thirdSpecies.html
+[fourthspecies]: fourthSpecies.html
+[strictkeyboardstyle]: strictKeyboardStyle.html
+[kbvlschemata]: KBVLschemata.html
+[melkb]: melodicKB.html
+[poprockvl]: popRockVL.html
 [thoroughbass]: thoroughbassFigures.html
 [functions]: functions.html
-[harmFunc]: harmonicFunctions.html
-[harmSyntax]: harmonicSyntax.html
-[popRockHarmony]: popRockHarmony.html
-
-[unfiguredBass]: unfiguredBass.html
-[RNfromFB]: RNfromFB.html
-[altSub]: alteredSubdominants.html
+[harmfunc]: harmonicFunctions.html
+[harmsyntax]: harmonicSyntax.html
+[poprockharmony]: popRockHarmony.html
+[unfiguredbass]: unfiguredBass.html
+[rnfromfb]: RNfromFB.html
+[altsub]: alteredSubdominants.html
 [applied]: appliedChords.html
-[embellishingTones]: embellishingTones.html
-[cadenceTypes]: cadenceTypes.html
-[LSandFBsymbols]: {{ site.url }}/Graphics/Handouts/LSandFBsymbols.pdf
-[funcBassChart]: {{ site.url }}/Graphics/Handouts/funcBassChart.pdf
-[classicalThemes]: classicalThemes.html
-[MinuetForm]: MinuetForm.html
-[Modulation]: Modulation.html
+[embellishingtones]: embellishingTones.html
+[cadencetypes]: cadenceTypes.html
+[lsandfbsymbols]: Graphics/Handouts/LSandFBsymbols.pdf
+[funcbasschart]: Graphics/Handouts/funcBassChart.pdf
+[classicalthemes]: classicalThemes.html
+[minuetform]: MinuetForm.html
+[modulation]: Modulation.html
 [mixture]: modalMixture.html
-[Schemata]: Schemata.html
-[SonataIntro]: SonataTheory-intro.html
-[SonataExpo]: SonataTheory-exposition.html
-[SonataRecap]: sonataRecap.html
-[popRockForm]: popRockForm.html
+[schemata]: Schemata.html
+[sonataintro]: SonataTheory-intro.html
+[sonataexpo]: SonataTheory-exposition.html
+[sonatarecap]: sonataRecap.html
+[poprockform]: popRockForm.html
 [syncopation]: syncopation.html
-[sightSinging]: sightSinging.html
-[addCC]: addCC.html
-[linkToTwitter]: linkToTwitter.html
+[sightsinging]: sightSinging.html
+[addcc]: addCC.html
+[linktotwitter]: linkToTwitter.html
 [poetry]: analyzingPoetry.html
-[kbTypesetting]: typesettingKBStyle.html
-[melDict]: melodicDictationDemo.html
-[VAT]: VAT.html
-[createGraphic]: createGraphic.html
-
+[kbtypesetting]: typesettingKBStyle.html
+[meldict]: melodicDictationDemo.html
+[vat]: VAT.html
+[creategraphic]: createGraphic.html
 [atonal]: atonal.html
-[twelveTone]: twelveTone.html
-[atonalGloss]: atonalGlossary.html
-[clocks]: {{ site.url }}/Graphics/blankClockFaces.pdf
+[twelvetone]: twelveTone.html
+[atonalgloss]: atonalGlossary.html
+[clocks]: Graphics/blankClockFaces.pdf

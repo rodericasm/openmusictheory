@@ -7,6 +7,6 @@ Modern pop/rock owes a great debt to the blues. This "tonal system" includes not
 
 For example, the eighth-chord cycle that forms the basis of The Beatles' "Let It Be" ends **I V IV I**, and this "backwards" classical move is the main harmonic punctuation at end points within the song.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48" frameborder="0" allowtransparency="true"></iframe>
+<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48" height="281" frameborder="0" allowtransparency="true"></iframe>
 
 For more blues-based rock examples, see the [blues progression](popRockHarmony-blues.html) resource.

@@ -7,37 +7,35 @@ title: Form in pop/rock music – Formal functions
 
 ### Strophe (A)
 
-The primary function of a strophe module is “to present the primary lyric and musical content and to provide a point at which the song might satisfyingly end” (Summach, p. 58). 
+The primary function of a strophe module is “to present the primary lyric and musical content and to provide a point at which the song might satisfyingly end” (Summach, p. 58).
 
-In strophic form (AAA), strophes are the only core modules, and thus do not participate in a functional progression. Functional progression takes place on the phrase level within the strophe. The strophe modules themselves tend to set a stanza of text each with music that is self-contained and harmonically closed. 
+In strophic form (AAA), strophes are the only core modules, and thus do not participate in a functional progression. Functional progression takes place on the phrase level within the strophe. The strophe modules themselves tend to set a stanza of text each with music that is self-contained and harmonically closed.
 
 See Carl Perkins's "Blue Suede Shoes" for strophe examples.
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h](https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h)  
-Spotify URI: [spotify:track:7bglJCaprPQTfDfovdJS2h](spotify:track:7bglJCaprPQTfDfovdJS2h)
+Album link: [https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h](https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h)
 
-- 0:00 – Strophe 1  
-- 0:19 – Strophe 2  
-- 0:41 – Instrumental strophe  
-- 0:58 – Strophe 3  
-- 1:21 – Instrumental strophe  
-- 1:37 – Strophe 1 (slightly varied repetition)  
+- 0:00 – Strophe 1
+- 0:19 – Strophe 2
+- 0:41 – Instrumental strophe
+- 0:58 – Strophe 3
+- 1:21 – Instrumental strophe
+- 1:37 – Strophe 1 (slightly varied repetition)
 - 1:54 – Strophe 4
 
-In 32-bar form (AABA), the strophe’s function as holding the *primary* text and music, and its function as being a stable point of departure and return, are elevated through contrast with the bridge module. In AABA songs, strophe function often involves the prolongation of tonic harmony. Strophes tend to be longer in strophic songs than in AABA songs. In both forms, *srdc* is by far the most common internal pattern for strophes. For three-part strophes, the 12-bar blues progression is the most common pattern.
+In 32-bar form (AABA), the strophe’s function as holding the _primary_ text and music, and its function as being a stable point of departure and return, are elevated through contrast with the bridge module. In AABA songs, strophe function often involves the prolongation of tonic harmony. Strophes tend to be longer in strophic songs than in AABA songs. In both forms, _srdc_ is by far the most common internal pattern for strophes. For three-part strophes, the 12-bar blues progression is the most common pattern.
 
 Frank Sinatra's "Strangers in the Night" is in AABA form. Its first two strophes begin at 0:10 and 0:31.
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3O8s4pon1omITzB07t6oNx" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx](https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx)  
-Spotify URI: [spotify:track:3O8s4pon1omITzB07t6oNx](spotify:track:3O8s4pon1omITzB07t6oNx)
+HTML link: [https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx](https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx)
 
 ### Chorus (C)
 
-Chorus modules are lyric-invariant and contain the primary lyrical material of the song. Chorus function is also typified by heightened musical intensity relative to the verse, including features like “a more dense or active instrumental texture; prominent background vocals; and/or a higher register melody” (Summach, p. 106). Choruses most frequently (but not exclusively) begin on-tonic. 
+Chorus modules are lyric-invariant and contain the primary lyrical material of the song. Chorus function is also typified by heightened musical intensity relative to the verse, including features like “a more dense or active instrumental texture; prominent background vocals; and/or a higher register melody” (Summach, p. 106). Choruses most frequently (but not exclusively) begin on-tonic.
 
 Chorus modules are distinct from refrains primarily by virtue of their being modules in and of themselves, where refrains are contained within a module.
 
@@ -45,8 +43,7 @@ An example chorus can be found at 1:34 in Bon Jovi's "Livin' on a Prayer."
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z)  
-Spotify URI: [spotify:track:0J6mQxEZnlRt9ymzFntA6z](spotify:track:0J6mQxEZnlRt9ymzFntA6z) 
+HTML link: [https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z)
 
 ## Functions for Secondary Modules
 
@@ -58,23 +55,21 @@ In VC songs, bridge modules are more free to contrast verse and chorus modules w
 
 See "Strangers in the Night" (audio above) or the Beatles' "I Want to Hold Your Hand" for examples of bridges in AABA form.
 
-"Come On Eileen" by Dexy's Midnight Runners contains an example of a bridge module in a verse-chorus song at 2:55. It finishes with a *climb* borrowed from the verses at 2:55, and sets up a chorus arrival at 3:34.
+"Come On Eileen" by Dexy's Midnight Runners contains an example of a bridge module in a verse-chorus song at 2:55. It finishes with a _climb_ borrowed from the verses at 2:55, and sets up a chorus arrival at 3:34.
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0EMmVUYs9ZZRHtlADB88uz" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz](https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz)  
-Spotify URI: [spotify:track:0EMmVUYs9ZZRHtlADB88uz](spotify:track:0EMmVUYs9ZZRHtlADB88uz) 
+Album link: [https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz](https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz)
 
 ### Verse (V)
 
-Verse modules are lyric-variant and often contain lyrics thatadvance the narrative. Until the 1960s, verse modules tended to be harmonically closed. Beginning in the 1960s, verse modules became more and more likely to be harmonically open (Summach, p. 114). Verses (like strophes) tend to begin on-tonic. 
+Verse modules are lyric-variant and often contain lyrics thatadvance the narrative. Until the 1960s, verse modules tended to be harmonically closed. Beginning in the 1960s, verse modules became more and more likely to be harmonically open (Summach, p. 114). Verses (like strophes) tend to begin on-tonic.
 
 The first and second verses to "Livin' on a Prayer" (audio above) begin at 0:44 and 1:52, respectively.
 
-
 ### Prechorus (P)
 
-Prechorus function is most significantly typified in energy gain. Prechorus modules originate historically in the *d* (departure) section of an *srdc* pattern. (Think of an *srdc* strophe becoming longer until *sr* forms its own two-part verse module (or two successive verse modules), *d* forms its own prechorus module, and *c* forms its own chorus module.) As a result, prechorus modules bear many of the functional characteristics of *d*—fragmentation, acceleration of harmonic rhythm, and movement away from tonic harmony—and harmonic openness.
+Prechorus function is most significantly typified in energy gain. Prechorus modules originate historically in the _d_ (departure) section of an _srdc_ pattern. (Think of an _srdc_ strophe becoming longer until _sr_ forms its own two-part verse module (or two successive verse modules), _d_ forms its own prechorus module, and _c_ forms its own chorus module.) As a result, prechorus modules bear many of the functional characteristics of _d_—fragmentation, acceleration of harmonic rhythm, and movement away from tonic harmony—and harmonic openness.
 
 The first prechorus module to "Livin' on a Prayer" (audio above) begins at 1:15.
 
@@ -88,7 +83,7 @@ The second cycle of "Livin' on a Prayer" (audio above) ends with a brief, two-ba
 
 ### Introduction & mid-song introduction (I)
 
-Introductions tend to be short and untexted (i.e., instrumental) and tend to present musical material from one or more core modules to come. Introduction modules transition from the unmetered silence that precede the song to the musical activity of the first core module. This is often accomplished by the introduction of musical material in layers (e.g., one instrument at a time) or a more generic building of energy. Occasionally intros include non-core material. Such intros often correspond to an outro based on the same material, and together they create a “bookend” effect. 
+Introductions tend to be short and untexted (i.e., instrumental) and tend to present musical material from one or more core modules to come. Introduction modules transition from the unmetered silence that precede the song to the musical activity of the first core module. This is often accomplished by the introduction of musical material in layers (e.g., one instrument at a time) or a more generic building of energy. Occasionally intros include non-core material. Such intros often correspond to an outro based on the same material, and together they create a “bookend” effect.
 
 It is also possible to have multiple intro modules in a row, with each based on different music. Such a succession of intros would be labeled I1, I2, etc. Dexy's Midnight Runners' "Come On Eileen" (audio above) contains several different intro modules with different musical content.
 
@@ -96,9 +91,7 @@ Mid-song intros function similarly, but in the middle of the song. They usually 
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d)  
-Spotify URI: [spotify:track:3dh2LlmeMqKJbzn2WUgt3d](spotify:track:3dh2LlmeMqKJbzn2WUgt3d) 
-
+Album link: [https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d)
 
 ### Outro (O)
 
@@ -114,8 +107,7 @@ Muse's "Resistance" has both a coda and an outro. The coda, which contains new m
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A1C2QJNTmsTxCDBuIgai8QV" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV)  
-Spotify URI: [spotify:track:1C2QJNTmsTxCDBuIgai8QV](spotify:track:1C2QJNTmsTxCDBuIgai8QV) 
+Album link: [https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV)
 
 ### Closing rhetoric
 
@@ -125,14 +117,13 @@ Closing rhetoric involves common patterns and techniques that signal that the en
 
 ### Refrain
 
-“A lyric-invariant passage within a module that is otherwise lyric-variant” (Summach, p. 322). Like a climb (below), a refrain is too short to form its own module—typically a phrase or less. A refrain is most often the last line or so of a module’s text (*tail refrain*), and occasionally the material at the beginning of a module’s text (*head refrain*).
+“A lyric-invariant passage within a module that is otherwise lyric-variant” (Summach, p. 322). Like a climb (below), a refrain is too short to form its own module—typically a phrase or less. A refrain is most often the last line or so of a module’s text (_tail refrain_), and occasionally the material at the beginning of a module’s text (_head refrain_).
 
 "Cathedrals" by Jump Little Children contains a head refrain. Each strophe begins with the same line, "In the shadows of tall buildings..."
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2wd52lU3agY0P3x2hxPYhm" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm](https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm)  
-Spotify URI: [spotify:track:2wd52lU3agY0P3x2hxPYhm](spotify:track:2wd52lU3agY0P3x2hxPYhm)
+Album link: [https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm](https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm)
 
 "Blue Suede Shoes" (audio above) and "I Want to Hold Your Hand" both contain tail refrains at the ends of their strophes, emphasizing the title lyrics.
 
@@ -142,4 +133,4 @@ Spotify URI: [spotify:track:2wd52lU3agY0P3x2hxPYhm](spotify:track:2wd52lU3agY0P3
 
 "Come On Eileen" (audio above) contains a one-phrase climb at the end of its verses and bridge ("Tu-ra-lu-ra...").
 
-[*Back to pop/rock form overview.*](popRockForm.html)
+[_Back to pop/rock form overview._](popRockForm.html)

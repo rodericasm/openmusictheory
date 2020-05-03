@@ -17,7 +17,7 @@ In the following example (from Mozart's Piano Sonata in D major, K. 284), the tr
 
 ![medialCaesura](Graphics/form/medialCaesura.png)
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2DuicS9kJJcP1sIyIGxGpE" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:2DuicS9kJJcP1sIyIGxGpE" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 As mentioned, the most common cadence associated with an MC is a half cadence. Typically, the HC occurs either in the home key, which we will call a I:HC MC, or the secondary key, a V:HC MC or III:HC MC.
 

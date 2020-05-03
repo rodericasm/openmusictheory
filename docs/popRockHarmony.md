@@ -9,18 +9,18 @@ One key difference between rock and classical harmony is that chords in pop/rock
 
 Following is a chart of bass scale degrees and the roots/Roman numerals most typically associated with them. Keep this chart handy when transcribing and dictating rock harmonic progressions. As you can see, most bass notes typically go with a single chord.
 
-| bass 	| 5/3 or 7	| 6/3 or 6/5	|
-| :-: | :-: | :-: |
-| *do*	| I	| 
-| *re*	| II	| 
-| *mi*/*me*	| [III]	| I
-| *fa*	| IV	| 
-| *sol*	| V	| 
-| *la*/*le*	| VI	| [IV]
-| *te*	| VII	| 
-| *ti*	| 	| V
+|   bass    | 5/3 or 7 | 6/3 or 6/5 |
+| :-------: | :------: | :--------: |
+|   _do_    |    I     |
+|   _re_    |    II    |
+| _mi_/_me_ |  [III]   |     I      |
+|   _fa_    |    IV    |
+|   _sol_   |    V     |
+| _la_/_le_ |    VI    |    [IV]    |
+|   _te_    |   VII    |
+|   _ti_    |          |     V      |
 
-*Bass scale degrees and commonly associated harmonies in pop/rock music. Less common chords are enclosed in square brackets.*
+_Bass scale degrees and commonly associated harmonies in pop/rock music. Less common chords are enclosed in square brackets._
 
 ## Harmonic functions in minor
 
@@ -36,20 +36,20 @@ There are a number of common stock chord progressions that recur in many pop/roc
 or  
 **&#124;&#124;: I – VI – II – V :&#124;&#124;**
 
-[The "Singer/Songwriter" progression](popRockHarmony-sscp.html) 
+[The "Singer/Songwriter" progression](popRockHarmony-sscp.html)
 
 **&#124;&#124;: VI – IV – I – V :&#124;&#124;** (in major)  
 **&#124;&#124;: I – VI – III – VII :&#124;&#124;** (in minor)  
 **&#124;&#124;: I – V – VI – IV :&#124;&#124;** ("With or Without You" variant)  
-**&#124;&#124;: IV – I – V – VI :&#124;&#124;** ("deceptive" variant)  
+**&#124;&#124;: IV – I – V – VI :&#124;&#124;** ("deceptive" variant)
 
-[The "Puff" progression](popRockHarmony-puff.html) 
+[The "Puff" progression](popRockHarmony-puff.html)
 
 **I – III – IV . . .** (to begin a phrase)
 
 [The blues progression](popRockHarmony-blues.html)
 
-**&#124;&#124;: I - - - &#124; IV - I - &#124; V IV I - :&#124;&#124;** (12-bar blues)   
+**&#124;&#124;: I - - - &#124; IV - I - &#124; V IV I - :&#124;&#124;** (12-bar blues)  
 **&#124;&#124;: I - - - &#124; I - - - &#124; IV - I - &#124; V IV I -:&#124;&#124;** (16-bar blues)
 
 [The Pachelbel progression](popRockHarmony-pachelbel.html)
@@ -70,11 +70,11 @@ or
 
 **&#124;&#124;: I - IV :&#124;&#124;**  
 **&#124;&#124;: I - bVII - IV - I :&#124;&#124;**  
-**&#124;&#124;: bVI - bIII - bVII - IV - I :&#124;&#124;**  
+**&#124;&#124;: bVI - bIII - bVII - IV - I :&#124;&#124;**
 
 ## Rock's "tonal systems"
 
-Walter Everett has posited six *tonal systems* to which most pop/rock songs belong. The following sections summarize four of these with examples (all but 1 and 6—the most and least tonal). See [Everett's 2004 article in *Music Theory Online*](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html) for a more detailed exploration of these "systems."
+Walter Everett has posited six _tonal systems_ to which most pop/rock songs belong. The following sections summarize four of these with examples (all but 1 and 6—the most and least tonal). See [Everett's 2004 article in _Music Theory Online_](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html) for a more detailed exploration of these "systems."
 
 System 1: Pop/rock tonality that strongly resembles common-practice classical tonality (major and minor keys, with parallel-key borrowing).
 
