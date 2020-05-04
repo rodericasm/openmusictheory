@@ -16,9 +16,7 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "predeploy": "vuepress build docs",
-    "deploy": "gh-pages -d docs/.vuepress/dist"
+    "build": "vuepress build docs"
   },
   "dependencies": {
     "vuepress-plugin-img-lazy": "^1.0.3"
