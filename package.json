@@ -9,6 +9,7 @@
   "devDependencies": {
     "gh-pages": "^2.2.0",
     "vuepress": "^1.4.1",
+    "vuepress-plugin-clean-urls": "^1.1.1",
     "vuepress-plugin-medium-zoom": "^1.1.8",
     "vuepress-plugin-nprogress": "^1.1.6",
     "vuepress-plugin-smooth-scroll": "0.0.9"

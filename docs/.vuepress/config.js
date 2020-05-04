@@ -10,6 +10,7 @@ module.exports = {
         href: `https://fonts.googleapis.com/css?family=Lora:400|Playfair+Display:800,400&display=swap`,
       },
     ],
+    ["link", { rel: "icon", href: "/favicon.ico" }],
   ],
   plugins: [
     [
@@ -21,6 +22,14 @@ module.exports = {
           background: "#fff",
           scrollOffset: 0,
         },
+      },
+    ],
+    [
+      "vuepress-plugin-clean-urls",
+      {
+        normalSuffix: ".html",
+        indexSuffix: "/index.html",
+        notFoundPath: "/404.html",
       },
     ],
     ["img-lazy"],
