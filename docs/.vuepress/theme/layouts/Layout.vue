@@ -1,12 +1,12 @@
 <template>
   <div class="layout" id="myLayout">
     <div class="sticky_head">
-      <div class="center_nav_container hamburger_align">
+      <div class="hamburger_align">
         <svg
           v-on:click="toggle_sidebar"
           class="bi bi-list hamburger_toggle"
-          width="28"
-          height="28"
+          width="40"
+          height="40"
           viewBox="0 0 16 16"
           fill="currentColor"
           xmlns="http://www.w3.org/2000/svg"
