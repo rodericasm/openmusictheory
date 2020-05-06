@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/openmusictheory_reskinned/",
+  base: "/openmusictheory/",
   description:
     "Open Music Theory is an open-source, interactive, online textbook for college-level music theory courses.",
   head: [
