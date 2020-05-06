@@ -3,7 +3,7 @@
 
 This is a reskin of the [Open Music Theory](http://www.openmusictheory.com) textbook/website. This reskin follows the API/DOCS design.
 
-> See the [demo](https://www.rodericasm.github.io/openmusictheory) here
+> See the [demo](https://rodericasm.github.io/openmusictheory/index.html) here
 
 This version is ported to Vuepress from Jekyll, with no revisions to the markdown content, except for image resizing and normalizing urls for Vuepress. (Of course, feel free to pull if anything was missed/not working as intended.)
 
