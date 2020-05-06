@@ -1,0 +1,9 @@
+Author: Rodericas Moana
+Project title: Open music theory
+Location: Australia
+Author Git username: rodericasm
+description: an open, interactive, online textbook for college music theory
+
+Thanks: Hybrid Pedagogy Publishing
+
+Tools: HTML, CSS, JS, Vuepress

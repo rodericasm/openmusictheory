@@ -11,6 +11,7 @@ module.exports = {
       },
     ],
     ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["link", { rel: "author", href: "/humans.txt" }],
   ],
   plugins: [
     [
