@@ -1,4 +1,4 @@
-# Open Music Theory (reskinned) [![Build Status](https://travis-ci.com/rodericasm/openmusictheory_reskinned.svg?branch=master)](https://travis-ci.com/rodericasm/openmusictheory_reskinned)
+# Open Music Theory (reskinned)
 
 
 This is a reskin of the [Open Music Theory](http://www.openmusictheory.com) textbook/website. This reskin follows the API/DOCS design.
